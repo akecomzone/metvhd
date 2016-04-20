@@ -20,7 +20,7 @@ http://49.231.20.61:8158/FreeTVChannel/StreamService/SD/NEWS1/heve.m3u8
 #EXTINF:0, Blue Sky
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 #EXTINF:0, Thairath TV
-http://edge6.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
+http://edge10.psitv.tv:1935/liveedge/308524491567_600/playlist.m3u8
 #EXTINF:0, NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:0, Bright TV
