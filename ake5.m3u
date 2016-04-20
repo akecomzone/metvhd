@@ -231,6 +231,84 @@ http://edge10.psitv.tv:1935/liveedge/307921214897_600/playlist.m3u8
 #EXTINF:0, SANOOK TV
 http://27.254.44.112:1935/sanooklive1/sanooklive1/playlist.m3u8
 
+#EXTINF:0,—-IPTV ADULT Dikrayaty —-
+
+http://tvservice.webhop.me:80/live/relly/relly/393.ts
+
+#EXTINF:0,Dorcel tv
+
+http://tvservice.webhop.me:80/live/relly/relly/4334.ts
+
+#EXTINF:0,T Girls TV
+
+http://tvservice.webhop.me:80/live/relly/relly/4488.ts
+
+#EXTINF:0,SCT HD
+
+http://tvservice.webhop.me:80/live/relly/relly/4490.ts
+
+#EXTINF:0,Redlight HD
+
+http://tvservice.webhop.me:80/live/relly/relly/4485.ts
+
+#EXTINF:0,Playboy
+
+http://tvservice.webhop.me:80/live/relly/relly/4489.ts
+
+#EXTINF:0,Pink O TV
+
+http://tvservice.webhop.me:80/live/relly/relly/4487.ts
+
+#EXTINF:0,Hustler HD
+
+http://tvservice.webhop.me:80/live/relly/relly/4486.ts
+
+#EXTINF:0,CentoxCento
+
+http://tvservice.webhop.me:80/live/relly/relly/4510.ts
+
+#EXTINF:0,Hot Club 1 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1000.ts
+
+#EXTINF:0,Hot Club 2 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1020.ts
+
+#EXTINF:0,Hot Club 3 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1021.ts
+
+#EXTINF:0,Hot Club 4 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1022.ts
+
+#EXTINF:0,Hot Club 5 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1120.ts
+
+#EXTINF:0,Hot Club 6 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1121.ts
+
+#EXTINF:0,Hot Club 7 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1122.ts
+
+#EXTINF:0,Hot Club 8 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/1573.ts
+
+#EXTINF:0,Hot Club 9 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/2637.ts
+
+#EXTINF:0,Hot Club 10 HD
+
+http://tvservice.webhop.me:80/live/relly/relly/2904.ts
+
+
+
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:0, SAKURA
