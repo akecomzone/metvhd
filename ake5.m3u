@@ -231,6 +231,27 @@ http://edge10.psitv.tv:1935/liveedge/307921214897_600/playlist.m3u8
 #EXTINF:0, SANOOK TV
 http://27.254.44.112:1935/sanooklive1/sanooklive1/playlist.m3u8
 
+#EXTINF:0,Sky Sport 1
+http://77.95.228.66:1935/live/d7GW6NVmPFO/chunklist.m3u8
+
+#EXTINF:0,Sky Sport 3
+http://37.148.166.17:1935/live/MMpZ19KHonR/chunklist.m3u8
+
+#EXTINF:0,Sky Sport 4
+http://78.41.204.7:1935/live/MMpZ19KHonR/chunklist.m3u8
+
+#EXTINF:0,bein sport 1
+http://37.148.166.5:1935/live/wPRRIGQKN7U/chunklist.m3u8
+
+#EXTINF:0,CTH Stadium x
+http://37.148.166.5:1935/live/xP98M98gcd2V/chunklist.m3u8
+
+#EXTINF:0,Premium sport
+http://77.95.228.66:1935/live/BLW1FKgjQDNv/chunklist.m3u8
+
+#EXTINF:0,setanta hd
+http://37.148.166.5:1935/live/GeKgw7ctv5YF/chunklist.m3u8
+
 #EXTINF:0,—-IPTV ADULT Dikrayaty —-
 
 http://tvservice.webhop.me:80/live/relly/relly/393.ts
