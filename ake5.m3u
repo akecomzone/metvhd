@@ -40,38 +40,54 @@ http://77vod1.mine.nu:1935/live/chxzyte.stream/.m3u8?wwn227,2233,H02804201616071
 http://viking.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, Axn HD2
 http://77vod1.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, Axn HD3
+http://whatapps.dyndns.tv:19355/live/chtaxn.stream/.m3u8?wwn227,2233,H02804201616541cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, HBO-HD
 http://viking.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, HBO-HD2
 http://77vod1.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, HBO-HD3
+http://whatapps.dyndns.tv:19355/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616541cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, HBO HITS
 http://viking.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, HBO HITS2
 http://77vod1.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, HBO HITS3
+http://whatapps.dyndns.tv:19355/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, Fox Movie HD
 http://viking.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, Fox Movie HD2
 http://77vod1.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, Fox Movie HD3
+http://whatapps.dyndns.tv:19355/live/chfoxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, FoxFamilyHD
 http://viking.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, FoxFamilyHD2
 http://77vod1.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, FoxFamilyHD3
+http://whatapps.dyndns.tv:19355/live/chfoxfam.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, Fox ActionHD
 http://viking.mine.nu:1935/live/chfoxax.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 #EXTINF:0, Fox ActionHD2
-http://77vod1.mine.nu:1935/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+http://whatapps.dyndns.tv:19355/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0, Fox ActionHD3
+http://whatapps.dyndns.tv:19355/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,Fox Thai
 http://77vod1.mine.nu:1935/live/chfoxthai.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
+#EXTINF:0,Fox Thai2
+http://whatapps.dyndns.tv:19355/live/chfoxthai.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
 
 #EXTINF:0,Fox Crime
 http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
 #EXTINF:0,Fox Crime2
+http://whatapps.dyndns.tv:19355/live/chfoxcrime.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Fox Crime3
 http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,Stat World HD
@@ -253,26 +269,9 @@ http://edge10.psitv.tv:1935/liveedge/307921214897_600/playlist.m3u8
 #EXTINF:0, SANOOK TV
 http://27.254.44.112:1935/sanooklive1/sanooklive1/playlist.m3u8
 
-#EXTINF:0,Sky Sport 1
-http://77.95.228.66:1935/live/d7GW6NVmPFO/chunklist.m3u8
 
-#EXTINF:0,Sky Sport 3
-http://37.148.166.17:1935/live/MMpZ19KHonR/chunklist.m3u8
 
-#EXTINF:0,Sky Sport 4
-http://78.41.204.7:1935/live/MMpZ19KHonR/chunklist.m3u8
 
-#EXTINF:0,bein sport 1
-http://37.148.166.5:1935/live/wPRRIGQKN7U/chunklist.m3u8
-
-#EXTINF:0,CTH Stadium x
-http://37.148.166.5:1935/live/xP98M98gcd2V/chunklist.m3u8
-
-#EXTINF:0,Premium sport
-http://77.95.228.66:1935/live/BLW1FKgjQDNv/chunklist.m3u8
-
-#EXTINF:0,setanta hd
-http://37.148.166.5:1935/live/GeKgw7ctv5YF/chunklist.m3u8
 
 #EXTINF:0,—-IPTV ADULT Dikrayaty —-
 
