@@ -110,25 +110,25 @@ http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H022112015151469
 http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, H2 HD
-http://viking.mine.nu:1935/live/chh2.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chh2.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0, Outdoor Channel
-http://viking.mine.nu:1935/live/choutdoor.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/choutdoor.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0, NatGeoWild
-http://viking.mine.nu:1935/live/chwild.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chwild.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0, DiscoveryCH
-http://viking.mine.nu:1935/live/chv9.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chv9.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0, Discovery Turbo
-http://viking.mine.nu:1935/live/chtrbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chtrbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0, NAT PEAPLE
 http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&m3u8
 
 #EXTINF:0, Cartoon Netwok
-http://viking.mine.nu:1935/live/chtcn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chtcn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
 
 #EXTINF:0,Fashion
 http://103.245.167.28/tot/df468a12ae6547de9637486bdc2025aa.m3u8
@@ -137,28 +137,34 @@ http://103.245.167.28/tot/df468a12ae6547de9637486bdc2025aa.m3u8
 http://103.245.167.28/tot/e36b99bcd26648af9db2261785c77b7a.m3u8
 
 #EXTINF:0, FOX SPORT HD
-http://viking.mine.nu:1935/live/chv8.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chv8.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, BT Sport 1
-rtmp://134.19.185.252:1935/livedge/mamahdbtsport1
+#EXTINF:0, GTH on AIR
+http://77vod1.mine.nu:1935/live/chgthonair.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, BT Sport 2
-rtmp://134.19.185.252:1935/livedge/mamahdbtsport2
+#EXTINF:0, Sport 1
+http://77vod1.mine.nu:1935/live/chtsp1.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, Sport-HD1
-http://27.254.149.79/vit69/tsphd1.stream/playlist.m3u8
+#EXTINF:0, Sport 2
+http://77vod1.mine.nu:1935/live/chsport2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, Sport-HD2
-http://27.254.149.79/vit69/tsphd2.stream/playlist.m3u8
+#EXTINF:0, Sport 3
+http://77vod1.mine.nu:1935/live/chtsp3.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, Sport-HD3
-http://103.13.30.30:1935/app1/t012/plyalist.m3u8
+#EXTINF:0, Sport 4
+http://77vod1.mine.nu:1935/live/chtsp4.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
-#EXTINF:0, VIP1
-http://103.7.57.191:1999/asiapopup/_definst_/acth1.stream/playlist.m3u8
+#EXTINF:0, Sport 5
+http://77vod1.mine.nu:1935/live/chsport5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+
+#EXTINF:0, Sport 6
+http://77vod1.mine.nu:1935/live/chsport6.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+
+#EXTINF:0, Sport 7
+http://77vod1.mine.nu:1935/live/chsport7.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, VIP2
-http://103.7.57.191:1999/asiapopup/_definst_/acth2.stream/playlist.m3u8
+http://77vod1.mine.nu:1935/live/vip2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, VIP3
 http://103.7.57.191:1999/asiapopup/_definst_/acth3.stream/playlist.m3u8
@@ -167,7 +173,7 @@ http://103.7.57.191:1999/asiapopup/_definst_/acth3.stream/playlist.m3u8
 http://103.7.57.191:1999/asiapopup/_definst_/acth4.stream/playlist.m3u8
 
 #EXTINF:0, VIP5
-http://103.7.57.191:1999/asiapopup/_definst_/acth5.stream/playlist.m3u8
+http://77vod1.mine.nu:1935/live/vip5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, One
 http://122.155.206.56:1935/onehdlive/onehd_cdn.stream/playlist.m3u8
