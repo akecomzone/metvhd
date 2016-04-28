@@ -34,31 +34,45 @@ http://nationstream.nationgroup.com/live.isml/QualityLevels(648000)/manifest(for
 http://edge6.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
 
 #EXTINF:0, X-Zyte
-http://77vod1.mine.nu:1935/live/chxzyte.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
+http://77vod1.mine.nu:1935/live/chxzyte.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, Axn HD
 http://viking.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, Axn HD2
+http://77vod1.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, HBO-HD
 http://viking.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, HBO-HD2
+http://77vod1.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, HBO HITS
 http://viking.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, HBO HITS2
+http://77vod1.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, Fox Movie HD
 http://viking.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, Fox Movie HD2
+http://77vod1.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, FoxFamilyHD
 http://viking.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, FoxFamilyHD2
+http://77vod1.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, Fox ActionHD
 http://viking.mine.nu:1935/live/chfoxax.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, Fox ActionHD2
+http://77vod1.mine.nu:1935/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,Fox Thai
 http://77vod1.mine.nu:1935/live/chfoxthai.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
 
 #EXTINF:0,Fox Crime
 http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
+#EXTINF:0,Fox Crime2
+http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,Stat World HD
 http://103.245.167.28/tot/65f7358b813048a0898f5677e1793cf9.m3u8
@@ -67,7 +81,7 @@ http://103.245.167.28/tot/65f7358b813048a0898f5677e1793cf9.m3u8
 http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892&m3u8
 
 #EXTINF:0,Warner
-http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
+http://77vod1.mine.nu:1935/live/chwn.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,THRILL
 http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
@@ -79,7 +93,7 @@ http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
 http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&m3u8
 
 #EXTINF:0,FX
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+http://77vod1.mine.nu:1935/live/chfxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0,FYI
 http://103.245.167.28/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
@@ -88,10 +102,12 @@ http://103.245.167.28/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
 http://103.245.167.28/tot/bd30e27f1c48430ba2104548a1b124ca.m3u8
 
 #EXTINF:0, NatGeoHD
-http://viking.mine.nu:1935/live/chnatgeo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chnatgeo.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, HistoryHD
-http://viking.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
+#EXTINF:0, HistoryHD2
+http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
 
 #EXTINF:0, H2 HD
 http://viking.mine.nu:1935/live/chh2.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
