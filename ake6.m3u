@@ -14,7 +14,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:0, TNN
 http://edge10.psitv.tv:1935/liveedge/308360140120_600/playlist.m3u8
 #EXTINF:0, ASTV NEWS 1
-http://202.170.127.178:1935/dcinode001/astvtotv.sdp/playlist.m3u8
+http://61.47.34.38/astvlive.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, ASTV NEWS 2
 http://49.231.20.61:8158/FreeTVChannel/StreamService/SD/NEWS1/heve.m3u8
 #EXTINF:0, Blue Sky
