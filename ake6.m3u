@@ -1,415 +1,197 @@
 #EXTM3U
-#EXTINF:0, Channel 3
-http://111.223.37.196:1935/thaitv3_HD/smil:thaitv3_HD.smil/playlist.m3u8
-#EXTINF:0, Channel 5
-http://edge1.psitv.tv:1935/liveedge/308661309596_600/playlist.m3u8
-#EXTINF:0, Channel 7
-http://edge9.psitv.tv:1935/liveedge/308091128717_600/playlist.m3u8
-#EXTINF:0, MCOT
-http://edge9.psitv.tv:1935/liveedge/307803302519_600/playlist.m3u8
-#EXTINF:0, NBT
-http://edge3.psitv.tv:1935/liveedge/308806374084_600/chunklist_w.m3u8
-#EXTINF:0, TPBS
+#EXTINF:0,ch3
+http://216.185.103.158/live2/ch3hd/playlist.m3u8
+#EXTINF:0,ch5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+#EXTINF:0,ch7
+http://216.185.103.158/live2/ch7hd/playlist.m3u8
+#EXTINF:0,ch9
+http://216.185.103.158/live2/chmcothd/playlist.m3u8
+#EXTINF:0,NBT
+http://216.185.103.158/live2/chNBT/playlist.m3u8
+#EXTINF:0,TPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:0, TNN
-http://edge10.psitv.tv:1935/liveedge/308360140120_600/playlist.m3u8
-#EXTINF:0, ASTV NEWS 1
-http://61.47.34.38/astvlive.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0, ASTV NEWS 2
-http://49.231.20.61:8158/FreeTVChannel/StreamService/SD/NEWS1/heve.m3u8
-#EXTINF:0, Blue Sky
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-#EXTINF:0, Thairath TV
-http://edge10.psitv.tv:1935/liveedge/308524491567_600/playlist.m3u8
-#EXTINF:0, NEW TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:0, Bright TV
+#EXTINF:0,TPBS2
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0,TNN24
+http://111.223.52.109:81/tot/77774220bb8e40aa94e549e29ff3ed8a.m3u8
+#EXTINF:0,TRUE4U
+http://216.185.103.158/live2/chTrue4u/playlist.m3u8
+#EXTINF:0,PPTV
+http://216.185.103.158/live2/chpptv1/playlist.m3u8
+#EXTINF:0,MONO29
+http://111.223.52.109:81/tot/9623847065ba466e90632cf686fade0b.m3u8
+#EXTINF:0,BRIGHT TV
 http://iam.brighttv.co.th/BrightTV/smil:live.smil/playlist.m3u8
-#EXTINF:0, Nation tv
-http://202.170.127.178/nationlive.isml/QualityLevels(256000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0, NOW TV 26
+#EXTINF:0,THAIRATH TV
+http://216.185.103.158/live2/chthairathhd1/playlist.m3u8
+#EXTINF:0,NEW TV 
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:0,NATION TV
+http://216.185.103.158/live2/chNation1/playlist.m3u8
+#EXTINF:0,#EXTINF:0, ASTV NEWS 1
+http://61.47.34.38/astvlive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,#EXTINF:0, ASTV NEWS 2
+http://49.231.20.61:8158/FreeTVChannel/StreamService/SD/NEWS1/heve.m3u8
+#EXTINF:0,Blue Sky
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:0,NOW TV 26
 http://nationstream.nationgroup.com/live.isml/QualityLevels(648000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:0, True4u
-http://edge6.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
-
-#EXTINF:0, X-Zyte
+#EXTINF:0,Spring News
+http://216.185.103.158/live2/chSpringnews/playlist.m3u8
+#EXTINF:0,ONE HD
+http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8
+#EXTINF:0,X-Zyte
 http://77vod1.mine.nu:1935/live/chxzyte.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Axn HD
+#EXTINF:0,X-Zyte 2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chxzyte.stream/chxzyte.stream
+#EXTINF:0,Axn HD
 http://viking.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, Axn HD2
+#EXTINF:0,Axn HD2
 http://77vod1.mine.nu:1935/live/chtaxn.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, Axn HD3
+#EXTINF:0,Axn HD3
 http://whatapps.dyndns.tv:19355/live/chtaxn.stream/.m3u8?wwn227,2233,H02804201616541cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, HBO-HD
+#EXTINF:0,Axn HD4
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chtaxn.stream/chtaxn.stream
+#EXTINF:0,HBO HD
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,thbo.stream/thbo.stream
+#EXTINF:0,HBO-HD1
 http://viking.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, HBO-HD2
+#EXTINF:0,HBO-HD2
 http://77vod1.mine.nu:1935/live/thbo.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, HBO-HD3
+#EXTINF:0,HBO-HD3
 http://whatapps.dyndns.tv:19355/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616541cf0f9e06572375f544defec800df98e
-
 #EXTINF:0, HBO HITS
 http://viking.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, HBO HITS2
+#EXTINF:0,HBO HITS2
 http://77vod1.mine.nu:1935/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, HBO HITS3
+#EXTINF:0,HBO HITS3
 http://whatapps.dyndns.tv:19355/live/chhhit.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Fox Movie HD
+#EXTINF:0,Fox Movie HD
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chfoxhd.stream/chfoxhd.stream
+#EXTINF:0,Fox Movie HD1
 http://viking.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, Fox Movie HD2
+#EXTINF:0,Fox Movie HD2
 http://77vod1.mine.nu:1935/live/chfoxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, Fox Movie HD3
+#EXTINF:0,Fox Movie HD3
 http://whatapps.dyndns.tv:19355/live/chfoxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, FoxFamilyHD
-http://viking.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, FoxFamilyHD2
-http://77vod1.mine.nu:1935/live/chfoxfam.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, FoxFamilyHD3
-http://whatapps.dyndns.tv:19355/live/chfoxfam.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Fox ActionHD
-http://viking.mine.nu:1935/live/chfoxax.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, Fox ActionHD2
-http://whatapps.dyndns.tv:19355/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0, Fox ActionHD3
-http://whatapps.dyndns.tv:19355/live/chfoxax.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0,Fox Thai
-http://77vod1.mine.nu:1935/live/chfoxthai.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
-#EXTINF:0,Fox Thai2
-http://whatapps.dyndns.tv:19355/live/chfoxthai.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
-
-#EXTINF:0,Fox Crime
-http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H0200420161216be0a3c1101f576c9bc33e8f286c319f2
-#EXTINF:0,Fox Crime2
-http://whatapps.dyndns.tv:19355/live/chfoxcrime.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-#EXTINF:0,Fox Crime3
-http://77vod1.mine.nu:1935/live/chfoxcrime.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0,Stat World HD
-http://103.245.167.28/tot/65f7358b813048a0898f5677e1793cf9.m3u8
-
-#EXTINF:0,Universal
-http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892&m3u8
-
-#EXTINF:0,Warner
-http://77vod1.mine.nu:1935/live/chwn.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0,THRILL
-http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
-
-#EXTINF:0,Kix
-http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
-
-#EXTINF:0,SyFY
-http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&m3u8
-
-#EXTINF:0,FX
-http://77vod1.mine.nu:1935/live/chfxhd.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
+#EXTINF:0,FoxFamilyHD
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chfoxfam.stream/chfoxfam.stream
+#EXTINF:0,FoxFamilyHD2
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,chfoxfam.stream/chfoxfam.stream
+#EXTINF:0,Fox ActionHD
+http://111.223.52.109:81/tot/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:0,FOX CrimeHD
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chfoxcrime.stream/chfoxcrime.stream
+#EXTINF:0,FOX CrimeHD2
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,chfoxcrime.stream/chfoxcrime.stream
+#EXTINF:0,FOXTHAI
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chfoxthai.stream/chfoxthai.stream
+#EXTINF:0,FOXTHAI2
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,chfoxthai.stream/chfoxthai.stream
 #EXTINF:0,FYI
-http://103.245.167.28/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
-
-#EXTINF:0,Sony
-http://103.245.167.28/tot/bd30e27f1c48430ba2104548a1b124ca.m3u8
-
-#EXTINF:0, NatGeoHD
+http://111.223.52.109:81/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
+#EXTINF:0,NatGeoHD
 http://77vod1.mine.nu:1935/live/chnatgeo.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, HistoryHD
-http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-#EXTINF:0, HistoryHD2
-http://77vod1.mine.nu:1935/live/chthis.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, H2 HD
+#EXTINF:0,NatGeoHD2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chnatgeo.stream/chnatgeo.stream
+#EXTINF:0,HistoryHD
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,chthis.stream/chthis.stream
+#EXTINF:0,HistoryHD2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chthis.stream/chthis.stream
+#EXTINF:0,H2 HD
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chh2.stream/chh2.stream
+#EXTINF:0,H2 HD2
 http://77vod1.mine.nu:1935/live/chh2.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0, Outdoor Channel
+#EXTINF:0,Outdoor Channel
 http://77vod1.mine.nu:1935/live/choutdoor.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0, NatGeoWild
+#EXTINF:0,Outdoor Channel2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,choutdoor.stream/choutdoor.stream
+#EXTINF:0,NatGeoWild
 http://77vod1.mine.nu:1935/live/chwild.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0, DiscoveryCH
+#EXTINF:0,NatGeoWild2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chwild.stream/chwild.stream
+#EXTINF:0,DiscoveryCH
 http://77vod1.mine.nu:1935/live/chv9.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0, Discovery Turbo
+#EXTINF:0,DiscoveryCH2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chv9.stream/chv9.stream
+#EXTINF:0,Discovery Turbo
 http://77vod1.mine.nu:1935/live/chtrbo.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0, NAT PEAPLE
-http://ntvvip.dyndns.org/stream/tot.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&m3u8
-
-#EXTINF:0, Cartoon Netwok
-http://77vod1.mine.nu:1935/live/chtcn.stream/.m3u8?wwn227,2233,H0221120151514694751dfb5d8d1d4c986910d7e41f337
-
-#EXTINF:0,Fashion
-http://103.245.167.28/tot/df468a12ae6547de9637486bdc2025aa.m3u8
-
-#EXTINF:0,ItvChoice
-http://103.245.167.28/tot/e36b99bcd26648af9db2261785c77b7a.m3u8
-
-#EXTINF:0, FOX SPORT HD
-http://77vod1.mine.nu:1935/live/chv8.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, GTH on AIR
-http://77vod1.mine.nu:1935/live/chgthonair.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 1
-http://77vod1.mine.nu:1935/live/chtsp1.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 2
-http://77vod1.mine.nu:1935/live/chsport2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 3
-http://77vod1.mine.nu:1935/live/chtsp3.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 4
-http://77vod1.mine.nu:1935/live/chtsp4.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 5
-http://77vod1.mine.nu:1935/live/chsport5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 6
-http://77vod1.mine.nu:1935/live/chsport6.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, Sport 7
-http://77vod1.mine.nu:1935/live/chsport7.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, VIP2
-http://77vod1.mine.nu:1935/live/vip2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, VIP3
-http://103.7.57.191:1999/asiapopup/_definst_/acth3.stream/playlist.m3u8
-
-#EXTINF:0, VIP4
-http://103.7.57.191:1999/asiapopup/_definst_/acth4.stream/playlist.m3u8
-
-#EXTINF:0, VIP5
-http://77vod1.mine.nu:1935/live/vip5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
-
-#EXTINF:0, One
-http://122.155.206.56:1935/onehdlive/onehd_cdn.stream/playlist.m3u8
-
-#EXTINF:0,CH 2 Star Max
-http://202.142.207.150:1935/live/liveyaaktv1/playlist.m3u8
-
-#EXTINF:0, PPTV
-http://pptv.cdn.byteark.com/live/playlist_480p/index.m3u8
-
-#EXTINF:0, Workpoint TV
-http://122.155.180.125/workpoint/workpoint_720p/playlist.m3u8
-
-#EXTINF:0, GMM25
-http://edge10.psitv.tv:1935/liveedge/292277190845_600/playlist.m3u8
-
-#EXTINF:0, Mono29
-http://edge2-bkk.3bb.co.th:1935/mono29shake_livestream/mono29.stream_live3/playlist.m3u8
-
-#EXTINF:0, Mono Plus
-http://solution01.stream.3bb.co.th:1935/MonoPlus_liveStream/monoplus.stream_live1/playlist.m3u8
-
-#EXTINF:0, M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-
-#EXTINF:0, M Channel2
-http://tv01.thaizatv.com:1935/mobile/gthonair.stream/playlist.m3u8
-
-#EXTINF:0, Goodfilms
-http://edge7.psitv.tv:1935/liveedge/292277206639_600/playlist.m3u8
-
-#EXTINF:0, Next Movies
-http://edge10.psitv.tv:1935/liveedge/307632181736_600/playlist.m3u8
-
-#EXTINF:0, MEDIA CHANNEL
-http://psi06.jai-d.com:1935/liveedge/308956631814_600/playlist.m3u8
-
-#EXTINF:0, MVTV
-http://103.40.138.89:1935/live/mvfamilyhd/playlist.m3u8
-
-#EXTINF:0, AC1 Chinese Series
-http://103.40.138.89:1935/live/ac1/playlist.m3u8
-
-#EXTINF:0,  AC2 korea Series
-http://103.40.138.89:1935/live/ac2/playlist.m3u8
-
-#EXTINF:0, AC3 Thai series
-http://103.40.138.89:1935/live/ac3/playlist.m3u8
-
-#EXTINF:0, AC4 Hollywood
-http://103.40.138.89:1935/live/ac4/playlist.m3u8
-
-#EXTINF:0, unknow
-http://tv01.thaizatv.com:1935/mobile/samrujlok.stream/playlist.m3u8
-
-#EXTINF:0, MY SCI
+#EXTINF:0,Discovery Turbo2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chtrbo.stream
+#EXTINF:0,NAT PEAPLE
+http://111.223.52.109:81/tot/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:0,MY SCI
 http://tv01.thaizatv.com:1935/mobile/mysci.stream/playlist.m3u8
-
-#EXTINF:0, CHOCOLATE
+#EXTINF:0,FX-HD
+http://111.223.52.109:81/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+#EXTINF:0,SyFy
+http://111.223.52.109:81/tot/71f197de056e499a85265c03b44bdab1.m3u8?token=fuck&m3u8
+#EXTINF:0,Universal
+http://111.223.52.109:81/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
+#EXTINF:0,KIX
+http://111.223.52.109:81/tot/e584e0adae6440eab366f5fe3a824f91.m3u8
+#EXTINF:0,THRILL
+http://111.223.52.109:81/tot/c316ed9333e54442b25077f0bb3cc269.m3u8
+#EXTINF:0,Sport 1
+http://77vod1.mine.nu:1935/live/chtsp1.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 2
+http://77vod1.mine.nu:1935/live/chsport2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 3
+http://77vod1.mine.nu:1935/live/chtsp3.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 4
+http://77vod1.mine.nu:1935/live/chtsp4.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 5
+http://77vod1.mine.nu:1935/live/chsport5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 6
+http://77vod1.mine.nu:1935/live/chsport6.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,Sport 7
+http://77vod1.mine.nu:1935/live/chsport7.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,VIP2
+http://77vod1.mine.nu:1935/live/vip2.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,VIP3
+http://103.7.57.191:1999/asiapopup/_definst_/acth3.stream/playlist.m3u8
+#EXTINF:0,VIP4
+http://103.7.57.191:1999/asiapopup/_definst_/acth4.stream/playlist.m3u8
+#EXTINF:0,VIP5
+http://77vod1.mine.nu:1935/live/vip5.stream/.m3u8?wwn227,2233,H02804201616071cf0f9e06572375f544defec800df98e
+#EXTINF:0,BEIN SPORT 1
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chbein.stream/chbein.stream
+#EXTINF:0,BEIN SPORT 2
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chbein2.stream/chbein2.stream
+#EXTINF:0,BEIN SPORT 3
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chbein3.stream/chbein3.stream
+#EXTINF:0,BEIN SPORT 4
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chbein4.stream/chbein4.stream
+#EXTINF:0,AC1 Chinese Series
+http://103.40.138.89:1935/live/ac1/playlist.m3u8
+#EXTINF:0,AC2 korea Series
+http://103.40.138.89:1935/live/ac2/playlist.m3u8
+#EXTINF:0,AC3 Thai series
+http://103.40.138.89:1935/live/ac3/playlist.m3u8
+#EXTINF:0,AC4 Hollywood
+http://103.40.138.89:1935/live/ac4/playlist.m3u8
+#EXTINF:0,Cartoon Netwok
+rtmp://whatapps.dyndns.tv:19355/live?wwn227,2233,chtcn.stream/chtcn.stream
+#EXTINF:0,CHOCOLATE
 http://tv-server01.saifar.com:1937/thundervision/chocolate_sd/playlist.m3u8
-#EXTINF:0, GangCartoon
+#EXTINF:0,GangCartoon
 http://edge1.psitv.tv:1935/liveedge/308058215552_600/playlist.m3u8
-#EXTINF:0, Cartoon Club
+#EXTINF:0,Disney JR
+rtmp://77vod1.mine.nu:1935/live?wwn227,2233,chdisjunr.stream/chdisjunr.stream
+#EXTINF:0,Cartoon Club
 http://103.14.10.14:1935/liveedge/292277442241_600/playlist.m3u8
-#EXTINF:0, BOOMERANG
+#EXTINF:0,BOOMERANG
 http://103.14.10.10:1935/liveedge/mp4:307331126227_600/chunklist_w517449714.m3u8
-#EXTINF:0, Toonami
+#EXTINF:0,Toonami
 http://103.14.10.10:1935/liveedge/mp4:292277374084_600/playlist.m3u8
-#EXTINF:0, MAN TV
+#EXTINF:0,MAN TV
 http://edge6.psitv.tv:1935/liveedge/307351222499_600/playlist.m3u8
-#EXTINF:0, A'Lure
+#EXTINF:0,A'Lure
 http://edge9.psitv.tv:1935/liveedge/308504386732_600/playlist.m3u8
-#EXTINF:0, Super Buntueng
+#EXTINF:0,Super Buntueng
 http://edge6.psitv.tv:1935/liveedge/292277301601_600/playlist.m3u8
 #EXTINF:0,SEXY WOMEN TV
 http://edge10.psitv.tv:1935/liveedge/307921214897_600/playlist.m3u8
-#EXTINF:0, SANOOK TV
+#EXTINF:0,SANOOK TV
 http://27.254.44.112:1935/sanooklive1/sanooklive1/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] Holliwood Film [/COLOR]
-http://103.40.138.89:1935/live/ac4/playlist.m3u8
- 
-#EXTINF:-1 group-title=“THAI TV”, [COLOR orange] SWISSZZ.BLOGSPOT**THAI TV [/COLOR] [COLOR yellow] UPDATED 27/05/16 [/COLOR]
-http://Polar
- 
-#EXTM3U
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] Korea Film [/COLOR]
-http://103.40.138.89:1935/live/ac2/playlist.m3u8
- 
-#EXTM3U
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] Chinese Film [/COLOR]
-http://103.40.138.89:1935/live/ac1/playlist.m3u8
- 
-#EXTM3U
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] Thai-india Film [/COLOR]
-http://103.40.138.89:1935/live/ac3/playlist.m3u8
- 
-#EXTM3U
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] AMARIN TV [/COLOR]
-http://112.121.152.34:80/stream/5195e80fe1ed0/playlist.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] THAICHAIYO [/COLOR]
-http://live.thaichaiyotv.co.th:1935/thaichaiyotv/live/playlist.m3u8
- 
-#EXTINF:-1 group-title=“Thai”, [COLOR orange]THAIRATH [/COLOR]
-http://live.thairath.co.th/trtv2/playlist.m3u8
- 
-#EXTINF:-1 group-title=“THAI”, [COLOR orange] NATION [/COLOR]
-http://183.90.170.8:1935/dcinode001/nation.sdp/playlist.m3u8?op_id=18
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MVLAO [/COLOR]
-rtmp://103.40.138.89:1935/live/mvlao
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] TV POOL [/COLOR]
-http://rtmp.thaitv.co.th/live/thaitv.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] DARADAILY [/COLOR]
-rtmp://202.44.53.116:1935/live/daradaily
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] GOOD TV [/COLOR]
-http://111.223.36.1/tp_nitipon_ch.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] FIVE CHANNEL [/COLOR]
-http://103.40.138.89:1935/live/five/playlist.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] POP TV [/COLOR]
-http://live.poptv.co.th:1935/poptv/live/playlist.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] PBS [/COLOR]
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] SMMTV SPORT [/COLOR]
-http://edge2-bkk.3bb.co.th:1935/SMMTV2016LiveStream/smmtv_low.stream/playlist.m3u8
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] Thai Parliament [/COLOR]
-http://202.57.162.55:1935/radio01/radio01/playlist.m3u8
- 
-#EXTINF:-1 group-title=“SWISSZZ”, [COLOR green] SWISSZZ.BLOGSPOT.CH**DISCOVERY CHANNEL [/COLOR] [COLOR yellow] UPDATED 04/05/16 [/COLOR]
-http://Polar
- 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] TRUE SPORT2 [/COLOR]
-rtmp://216.185.103.158/live2//chthaipremier31
-
-#EXTINF:-1,DigiSport3
-http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
-#EXTINF:-1,novaSport1
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Eurosport2
-http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
-#EXTINF:-1,FILMBOX
-http://213.81.153.241/live001/channel018_p2.stream/DVR.m3u8
-#EXTINF:-1,EnglishClub
-http://213.81.153.241/live001/channel020_p2.stream/DVR.m3u8
-#EXTINF:-1,O1
-http://213.81.153.241/live001/channel031_p2.stream/DVR.m3u8
-#EXTINF:-1,O2
-http://213.81.153.241/live001/channel032_p2.stream/DVR.m3u8
-#EXTINF:-1,N/A
-http://213.81.153.241/live001/channel033_p2.stream/DVR.m3u8
-#EXTINF:-1,Discovery
-http://213.81.153.241/live001/channel034_p1.stream/DVR.m3u8
-#EXTINF:-1,AnimalPlanet
-http://213.81.153.241/live001/channel036_p2.stream/DVR.m3u8
-#EXTINF:-1 group-title="Sports",Sport 24
-http://203.162.235.30/hls/SP24/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ESPN/SCTVHD THETHAO
-http://203.162.235.30/hls/SN_ESPN/playlist.m3u8
-#EXTINF:-1 group-title="Sports",EDGE
-http://203.162.235.30/hls/EDGE/playlist.m3u8
-#EXTINF:-1 group-title="Sports",SKY SPORT
-http://203.162.235.30/hls/SKY_SPORT_N/playlist.m3u8
-#EXTINF:-1 group-title="Sports",BEIN1 PORT/BTV5
-http://203.162.235.30/hls/BEIN1PORT/playlist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE4U
-http://203.162.235.30/hls/TRUE4U/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MS 
-http://203.162.235.30/hls/MS/playlist.m3u8
-#EXTINF:-1 group-title="Sports",TyC Sport
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",Japan:SPORT 1
-http://203.162.235.45:17930
-#EXTINF:-1 group-title="Sports",Japan:SPORT 2
-http://203.162.235.45:17931
-#EXTINF:-1 group-title="Sports",Japan:SPORT 3
-http://203.162.235.45:17932
-#EXTINF:-1 group-title="Sports",Japan:SPORT 4
-http://203.162.235.45:17933
-#EXTINF:-1 group-title="Sports",CCTV5 HD
-http://183.207.249.6/PLTV/3/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="Sports",CCTV5+HD s1
-http://183.207.249.6/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="Sports",CCTV5+HD s2
-http://cctv5plus.vtime.cntv.cloudcdn.net:8500/cache/257_/seg0/index.m3u8
-#EXTINF:-1 group-title="Sports", Futboll
-http://183.207.249.6/PLTV/3/224/3221225571/index.m3u8
-#EXTINF:-1 group-title="Sports",Eurosport 2
-http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51a61e29947399449b0000d2/live.isml/events/live-audio%3D64000-video%3D1891000.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT HD2 s1
-rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:-1 group-title="Sports",TRUE SPORT HD2 s2
-http://103.7.57.19:1935/goalclub/sporthd2.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT HD2 s3
-http://stream2.goalclub.tv:1935/goalclub/sporthd2.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT HD3 s1
-http://103.7.57.19:1935/goalclub/sporthd3.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT HD3 s2
-http://stream2.goalclub.tv:1935/goalclub/sporthd3.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT 1
-http://27.254.84.43:8082/tsp1/index.m3u8?type=9
-#EXTINF:-1 group-title="Sports",TRUE SPORT 2 s1
-rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1 group-title="Sports",TRUE SPORT 2 s2
-rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1 group-title="Sports",TRUE SPORT 6 s1
-http://103.7.57.19:1935/goalclub/sport5.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT 6 s2
-http://stream2.goalclub.tv:1935/goalclub/sport5.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT 7 s1
-http://103.7.57.19:1935/goalclub/sport7.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",TRUE SPORT 7 s2
-http://stream2.goalclub.tv:1935/goalclub/sport7.stream_480p/chunklist.m3u8
-
