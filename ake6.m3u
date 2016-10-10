@@ -30,9 +30,9 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:0,NATION TV
 http://216.185.103.158/live2/chNation1/playlist.m3u8
 #EXTINF:0,#EXTINF:0, ASTV NEWS 1
-http://61.47.34.38/astvlive.isml/manifest(format=m3u8-aapl).m3u8
+https://cloudiptv_ch3_live1.stream\/playlist.m3u8?username=DeXCco633sE6Y0rujYfqyoTcgsurW75n&password=Xy8019oUQAostmx4JsL5F36ycvZgpL2c
 #EXTINF:0,#EXTINF:0, ASTV NEWS 2
-https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8?username=mSzyhojOlWyBNK4aIKQMUoFXW3Tz48ch&password=mrecOSRbsxfW6ohwjQQr44zWnE5s86Pd
+https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8?username=incloud02&password=incloud02
 #EXTINF:0,Blue Sky
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 #EXTINF:0,NOW TV 26
